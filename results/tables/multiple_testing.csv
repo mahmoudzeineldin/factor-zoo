@@ -1,0 +1,4 @@
+period,factors tested,t > 1.96,t > 3.0,Bonferroni,Benjamini-Hochberg,Benjamini-Yekutieli
+in original sample,208,183,120,80,179,138
+after publication,209,54,24,9,33,9
+full history,212,173,134,96,166,149
