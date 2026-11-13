@@ -1,0 +1,7 @@
+data/raw/
+data/fake_raw/
+results_fake/
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
